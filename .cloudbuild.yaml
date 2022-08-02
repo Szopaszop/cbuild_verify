@@ -1,0 +1,3 @@
+steps:
+  - name: 'hello world'
+    args: ['echo', 'I am running a bash command']
